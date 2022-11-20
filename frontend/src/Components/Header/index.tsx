@@ -1,5 +1,5 @@
-import icon from "../../assets/img/logo.svg"
-import "./styles.css"
+import icon from "../../assets/img/logo.svg";
+import "./styles.css";
 
 function Header() {
     return (
@@ -14,6 +14,7 @@ function Header() {
                     </p>
                 </div>
             </header>
+            
         </>
     )
 }
